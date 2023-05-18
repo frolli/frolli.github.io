@@ -1,0 +1,1 @@
+.news .element{flex:1 1 48%;max-width:48%}.news .element:nth-child(even){margin-right:0}.news .element:nth-child(odd){margin-left:0}.news .element .bg-white{width:100%;min-height:180px}@media screen and (max-width: 930px){.news .element{flex:100%;max-width:none}}

@@ -1,0 +1,1 @@
+import{_ as o}from"./logo34169.js";import{_ as e,o as r,a as t}from"../index34169.js";const c={},s={src:o,alt:"Fileni"};function _(n,i){return r(),t("img",s)}const f=e(c,[["render",_]]);export{f as L};
